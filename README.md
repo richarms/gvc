@@ -38,7 +38,7 @@ But the tensorflow-gpu package is not the most portable package available.
 ## Usage
 
 ```
-$ vacuum-clean dirty.fits psf.fits
+$ vacuum-cleaner [model file location] dirty.fits psf.fits
 ```       
       
 
